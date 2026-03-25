@@ -1,12 +1,10 @@
 ### How to use this repo
-'''
-{
+```bash
     python3 -m venv .venv
     source .venv/bin/activate
     pip install -r requirements.txt
-}
-'''
 
+```
 Create a virtual environment - python3 -m venv .venv in main dir
 Run source .venv/bin/activate to setup palce for pip to install
 Then run pip install -r requirements.txt
